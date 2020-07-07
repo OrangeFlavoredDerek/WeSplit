@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Meal Calculator
 //
-//  Created by 陈峻琦 on 2020/7/7.
+//  Created by Derek on 2020/7/7.
 //  Copyright © 2020 derekchan. All rights reserved.
 //
 
